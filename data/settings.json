@@ -15,7 +15,19 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "",
+      "src": "https://s1.ax1x.com/2022/11/04/xLylFO.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "src": "https://s1.ax1x.com/2022/11/04/xLyMTK.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "src": "https://s1.ax1x.com/2022/11/04/xLyKw6.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -26,13 +38,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://s1.ax1x.com/2022/11/04/xLyKw6.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://s1.ax1x.com/2022/11/04/xLylFO.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -43,7 +55,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://s1.ax1x.com/2022/11/04/xLyKw6.jpg",
       "url": "",
       "width": null,
       "height": null
