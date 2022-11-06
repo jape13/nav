@@ -11,7 +11,7 @@
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 hao502.com, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
-  "baiduStatisticsUrl": "",
+  "baiduStatisticsUrl": "<script charset=\"UTF-8\" id=\"LA_COLLECT\" src=\"//sdk.51.la/js-sdk-pro.min.js\"></script> <script>LA.init({id: \"JrxQ7Z7a1wbcMyXL\",ck: \"JrxQ7Z7a1wbcMyXL\"})</script>",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
