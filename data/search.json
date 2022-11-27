@@ -1,13 +1,5 @@
 [
   {
-    "name": "不开VIP.COM",
-    "url": "https://xn--vip-628dx88e.com/index.php/vod/search.html?wd=",
-    "icon": "https://imgs.hao502.com/file/9db4e46e02a54fcaa49d6.png",
-    "placeholder": "看你想看的影片",
-    "blocked": false,
-    "isInner": false
-  },
-  {
     "name": "站内",
     "icon": "https://imgs.hao502.com/file/a2040beb83cffed75cab6.png",
     "placeholder": "站内搜索",
@@ -19,6 +11,14 @@
     "url": "https://www.baidu.com/s?wd=",
     "icon": "https://imgs.hao502.com/file/373ce375be9e9edf57e40.png",
     "placeholder": "百度一下",
+    "blocked": false,
+    "isInner": false
+  },
+  {
+    "name": "不开VIP.COM",
+    "url": "https://xn--vip-628dx88e.com/index.php/vod/search.html?wd=",
+    "icon": "https://imgs.hao502.com/file/9db4e46e02a54fcaa49d6.png",
+    "placeholder": "看你想看的影片",
     "blocked": false,
     "isInner": false
   },
