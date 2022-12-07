@@ -20,6 +20,12 @@
     </nav>
   </header>
 
+  <div class="img">
+      <a style="border: 2px dashed blue">
+        <img src="https://imgs.hao502.com/file/49a18893c5f2e2b5900e4.jpg" class="hao502" alt="Hao502简洁版">
+      </a>
+  </div>
+
   <div class="wrapper" *ngIf="websiteList[page]">
     <nav class="children-nav" *ngIf="websiteList[page].nav.length > 1">
       <a
@@ -31,10 +37,6 @@
         {{ item.title }}
       </a>
     </nav>
-
-    <div class="img">
-      <img [src]="LOGO_CDN" class="hao502">
-    </div>
 
     <ul>
       <li *ngFor="let item of currentList">
