@@ -87,14 +87,12 @@ $bg-color: #fbfbfb;
     	display: flex;
      	justify-content: center;
       	align-items: center;
-      	width: calc(50% - 18px);
-      	height: 10px;
-
-        position: relative;
         border: 1px solid #eee;
         overflow: hidden;
+        clear:both;
+        border-radius: 6px;
 
-      .hao502 {
+      img{
     	width:auto;
         height:auto;
         max-width:100%;
@@ -103,7 +101,12 @@ $bg-color: #fbfbfb;
 
       	}
    
+.img a{margin:5px;display:block;border-radius:3px;}
 
+@media(max-width:999px) {
+.img{margin: 0 0 10px 0;}
+.img li{width:100%;}
+}
 
 
   .wrapper {
