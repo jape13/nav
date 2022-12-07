@@ -20,10 +20,6 @@
     </nav>
   </header>
 
-  <div class="img">
-  <img [src]="LOGO_CDN" class="hao502">
-  </div>
-
   <div class="wrapper" *ngIf="websiteList[page]">
     <nav class="children-nav" *ngIf="websiteList[page].nav.length > 1">
       <a
@@ -35,6 +31,11 @@
         {{ item.title }}
       </a>
     </nav>
+
+    <div class="img">
+      <img [src]="LOGO_CDN" class="hao502">
+    </div>
+
     <ul>
       <li *ngFor="let item of currentList">
         <h2 class="block-title" *ngIf="item.title">
